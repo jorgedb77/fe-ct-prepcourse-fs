@@ -17,7 +17,7 @@ const nuevaResta = 10 - null === 10;
 const nuevaMultiplicacion = 10 * null === 0;
 
 // Resuelve el siguiente problema matemático.
-const nuevoModulo = 21 % 5 === null;
+const nuevoModulo = 21 % 5 === 1;
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
 module.exports = {
